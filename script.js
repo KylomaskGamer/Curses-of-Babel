@@ -4,11 +4,11 @@ let x = [];
 let y = [];
 
 async function loadLists() {
-    x = (await fetch("x.txt").then(response => response.text()))
+    x = (await fetch("https://raw.githubusercontent.com/KylomaskGamer/Curses-of-Babel/refs/heads/main/x.txt").then(response => response.text()))
         .split(/\r?\n/)
         .filter(line => line.trim() !== "");
 
-    y = (await fetch("y.txt").then(response => response.text()))
+    y = (await fetch("https://raw.githubusercontent.com/KylomaskGamer/Curses-of-Babel/refs/heads/main/y.txt").then(response => response.text()))
         .split(/\r?\n/)
         .filter(line => line.trim() !== "");
 }
