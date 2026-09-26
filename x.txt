@@ -6,3 +6,16 @@ every tile part of a half polygon
 every tile with a tile icon
 every speed change
 every twirl
+every tile whose angle is below Δ
+every prime-numbered tile
+every skewed tile
+every reflex angle
+every midspin
+every multitap
+every pseudo
+every u-turn
+every orthogonal angled tile
+every acute angled tile
+every obtuse angled tile
+every tile next to an angled tile
+every Δth tile
