@@ -4,6 +4,6 @@ multiplies your speed
 has a hold
 makes you more tired
 is 3-planet, otherwise 2
-disallows fun
+gains Δ degrees
 duplicates itself (non-recursive)
 does not exist
