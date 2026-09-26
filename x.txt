@@ -1,1 +1,8 @@
 every tile
+every straight tile
+every angled tile
+every tile part of a polygon
+every tile part of a half polygon
+every tile with a tile icon
+every speed change
+every twirl
