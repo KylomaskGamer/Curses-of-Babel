@@ -1,2 +1,15 @@
 # Curses-of-Babel
-Adofai curses, but theres a ton of them
+Curses of Babel is a list of curses for ADOFAI that takes 2 lists and generates a lot of them.
+> For reference on what a "curse" is, refer to [Yangsy's explanation.](https://yangsy56302.github.io/adofai/cursed/index.html)
+
+This list of curses is incomplete, and will always be incomplete, for the amount of sub-conditions, sub-actions, and a lot of things that may consider curses as a "salad" curse - a curse which does a lot of mixed things in one go, as well as the list of conditions and actions in this series.
+
+# Contribution
+To add things to this list, create a pull request.
+There is 2 ways i will accept a PR:
+1. adding a condition andor action to x.txt (conditions) and y.txt (actions)
+2. adding more possible ways to expand the list of curses with sub-modifiers and adding new files in `loadcurses()` in script.js.
+In any case a PR does not fall into the 2 categories, i will review your request strictly and may reject it at any time.
+
+# Usage 
+Shrimply do what Yangsy's explanation told you. For notation, this uses **NνX** for the notation. For the inverse, use the -1 exponent version.
