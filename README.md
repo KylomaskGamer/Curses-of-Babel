@@ -2,7 +2,9 @@
 Curses of Babel is a list of curses for ADOFAI that takes 2 lists and generates a lot of them.
 > For reference on what a "curse" is, refer to [Yangsy's explanation.](https://yangsy56302.github.io/adofai/cursed/index.html)
 
-This list of curses is incomplete, and will always be incomplete, for the amount of sub-conditions, sub-actions, and a lot of things that may consider curses as a "salad" curse - a curse which does a lot of mixed things in one go, as well as the list of conditions and actions in this series.
+This list of curses is incomplete, and will always be incomplete, for the amount of sub-conditions, sub-actions, and a lot of things that may consider curses as a "salad" curse - a curse which does a lot of mixed things in one go, as well as the list of conditions and actions in this series is always open for more items.
+
+This takes inspiration from the Library of Babel: a library with infinite books with a guaranteed possibility that everything and anything will appear in the library. (This, however, is not exactly the library of babel,but preferrably a programmatically generated list of ADOFAI "Curses" which makes  it seem that millions, or even billions, of curses can be possible. Heck, these curses may make no sense at all, similar to the library, completely aiming at a different scope.
 
 # Contribution
 To add things to this list, create a pull request.
