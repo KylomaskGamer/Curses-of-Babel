@@ -21,4 +21,5 @@ When applying a Babel Curse, all curses have a single parameter by default, that
 
 > [!IMPORTANT]
 > The curse notation does not use "v", it uses the greek letter *nu*, `ν`. 
+> 
 > _ The uppercase letter variant, N, does not invert the curse, does NOT invert the curse, nor does it count as a Babel Curse.
