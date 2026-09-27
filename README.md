@@ -1,5 +1,5 @@
 # Curses-of-Babel
-Curses of Babel is a list of curses for ADOFAI that takes 2 lists and generates a lot of them.
+Curses of Babel is a **non-handcrafted** list of curses for ADOFAI that takes 2 lists and generates a lot of them.
 > For reference on what a "curse" is, refer to [Yangsy's explanation.](https://yangsy56302.github.io/adofai/cursed/index.html)
 
 This list of curses is incomplete, and will always be incomplete, for the amount of sub-conditions, sub-actions, and a lot of things that may consider curses as a "salad" curse - a curse which does a lot of mixed things in one go, as well as the list of conditions and actions in this series is always open for more items.
