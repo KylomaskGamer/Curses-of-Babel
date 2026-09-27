@@ -17,9 +17,9 @@ Shrimply do what Yangsy's explanation told you. For notation, this uses `NνX` f
 When applying a Babel Curse, all curses have a single parameter by default, that being a Rendered Level object. In curses where Δ is indicated, pass the value as the second parameter. Passing a 2nd value to a curse that does not require Δ does nothing and can solely serve as throwing off players.
 
 > [!CAUTION]
-> Unlike other curses, Babel Curses do not have a "default level." `11ν3` by itself does NOT do anything if attempting to modify `11-3`, as the curse is consisted of a condition and an action in its Curse ID `NνX`. You must pass the level object in order to curse with Babel Curses at all times (for example,` 11ν3(11-3)`)
+> Unlike other curses, Babel Curses do not have a "default level." `11ν3` by itself does NOT do anything if attempting to modify `11-3`, as the curse is consisted of a condition and an action in its Curse ID `NνX`. You must pass the level object in order to curse with Babel Curses at all times (for example, `11ν3(11-3)`)
 
 > [!IMPORTANT]
 > The curse notation does not use "v", it uses the greek letter *nu*, `ν`. 
 > 
-> _ The uppercase letter variant, N, does not invert the curse, does NOT invert the curse, nor does it count as a Babel Curse.
+> The uppercase letter variant, N, does not invert the curse, does NOT invert the curse, nor does it count as a Babel Curse.
