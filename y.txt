@@ -21,3 +21,4 @@ must be hit perfectly
 must be hit late
 must be hit early
 is a mine
+increases the intensity of the k filter
