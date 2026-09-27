@@ -25,3 +25,7 @@ When applying a Babel Curse, all curses have a single parameter by default, that
 > The curse notation does not use "v", it uses the greek letter *nu*, `ν`. 
 > 
 > The uppercase letter variant, N, does NOT invert the curse, nor does it count as a Babel Curse.
+
+# More Need Stuff
+because this is still technically functions executing the same set of curses, yiu can apply the following operators to Babel Curses:
+- (15 ∩ 17)ν3 if 
