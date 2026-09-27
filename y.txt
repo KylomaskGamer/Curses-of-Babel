@@ -1,9 +1,18 @@
 has a twirl
-speeds you up
-multiplies your speed
-has a hold
+speeds you up by k
+multiplies your speed by k
+has a hold with k||0 extra loops
 makes you more tired
 is 3-planet, otherwise 2
-gains Δ degrees
+gains k degrees
 duplicates itself (non-recursive)
 does not exist
+is replaced with a k-sided polygon
+has a checkpoint
+is simply invisible
+has a midspin k% of the tile's angle
+is techified
+sets the bpm to k
+counts as k
+CTRL+L's the next tile
+CTRL+SHIFT+L's the next tile
