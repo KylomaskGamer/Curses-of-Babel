@@ -12,9 +12,12 @@ There is 2 ways i will accept a PR:
 In any case a PR does not fall into the 2 categories, i will review your request strictly and may reject it at any time.
 
 # Usage 
-Shrimply do what Yangsy's explanation told you. For notation, this uses **NνX** for the notation. For the inverse, use the -1 exponent version.
+Shrimply do what Yangsy's explanation told you. For notation, this uses `NνX` for the notation. For the inverse, use the -1 exponent version.
 
 When applying a Babel Curse, all curses have a single parameter by default, that being a Rendered Level object. In curses where Δ is indicated, pass the value as the second parameter. Passing a 2nd value to a curse that does not require Δ does nothing and can solely serve as throwing off players.
 
 > [!CAUTION]
-> Unlike other curses, Babel Curses do not have a "default level." `11ν3` by itself does NOT do anything if attempting to modify `11-3`, as the curse is unassigned fo a level. The "but" statement is directly AFTER the curse notation, thus not adopting a default level at all, even though they appear to be. 
+> Unlike other curses, Babel Curses do not have a "default level." `11ν3` by itself does NOT do anything if attempting to modify `11-3`, as the curse is consisted of a condition and an action in its Curse ID `NνX`. You must pass the level object in order to curse with Babel Curses at all times (for example,` 11ν3(11-3)`)
+
+> [!INFO]
+> The curse notation does not use "v", it uses the greek letter ν. 
