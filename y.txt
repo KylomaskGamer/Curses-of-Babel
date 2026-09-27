@@ -16,3 +16,8 @@ sets the bpm to k
 counts as k
 CTRL+L's the next tile
 CTRL+SHIFT+L's the next tile
+spawns a k-sided star
+must be hit perfectly
+must be hit late
+must be hit early
+is a mine
