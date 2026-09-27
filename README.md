@@ -13,3 +13,8 @@ In any case a PR does not fall into the 2 categories, i will review your request
 
 # Usage 
 Shrimply do what Yangsy's explanation told you. For notation, this uses **NνX** for the notation. For the inverse, use the -1 exponent version.
+
+When applying a Babel Curse, all curses have a single parameter by default, that being a Rendered Level object. In curses where Δ is indicated, pass the value as the second parameter. Passing a 2nd value to a curse that does not require Δ does nothing and can solely serve as throwing off players.
+
+> [!CAUTION]
+> Unlike other curses, Babel Curses do not have a "default level."
