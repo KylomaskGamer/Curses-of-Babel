@@ -19,5 +19,6 @@ When applying a Babel Curse, all curses have a single parameter by default, that
 > [!CAUTION]
 > Unlike other curses, Babel Curses do not have a "default level." `11ν3` by itself does NOT do anything if attempting to modify `11-3`, as the curse is consisted of a condition and an action in its Curse ID `NνX`. You must pass the level object in order to curse with Babel Curses at all times (for example,` 11ν3(11-3)`)
 
-> [!INFO]
-> The curse notation does not use "v", it uses the greek letter ν. 
+> [!IMPORTANT]
+> The curse notation does not use "v", it uses the greek letter *nu*, `ν`. 
+> _ The uppercase letter variant, N, does not invert the curse, does NOT invert the curse, nor does it count as a Babel Curse.
