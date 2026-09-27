@@ -22,3 +22,6 @@ must be hit late
 must be hit early
 is a mine
 increases the intensity of the k filter
+is a u-turn
+is played at 10,000 bpm
+has a k-beat pause
