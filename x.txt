@@ -19,3 +19,7 @@ every acute angled tile
 every obtuse angled tile
 every tile next to an angled tile
 every nth tile
+every cursed tile
+every tile part of a star
+every hold tile
+every checkpoint
