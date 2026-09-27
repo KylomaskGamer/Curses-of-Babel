@@ -26,7 +26,7 @@ When applying a Babel Curse, all curses have a single parameter by default, that
 > 
 > The uppercase letter variant, N, does NOT invert the curse, nor does it count as a Babel Curse.
 
-# More Need Stuff
+# More Nerd Stuff
 because this is still technically functions executing the same set of curses, yiu can apply the following Boolean Set operators to Babel Curses:
 - (15∩17)ν3 "every angled tile that is also a pseudo multiplies your speed by k" 
 - (15∪17)ν3 "every angled tile or pseudo multiplies your speed by k" 
