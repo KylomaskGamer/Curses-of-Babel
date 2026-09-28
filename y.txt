@@ -25,3 +25,4 @@ increases the intensity of the k filter
 is a u-turn
 is played at 10,000 bpm
 has a k-beat pause
+restarts the cursed section from the last time the condition was true
