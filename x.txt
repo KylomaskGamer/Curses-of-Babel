@@ -17,7 +17,7 @@ every u-turn
 every orthogonal angled tile
 every acute angled tile
 every obtuse angled tile
-every tile next to an angled tile
+every tile next to an angled tile {x}
 every nth tile
 every cursed tile
 every tile part of a star
