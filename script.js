@@ -16,7 +16,7 @@ async function loadLists() {
 function loadcurses() {
     for (let i = 0; i < x.length; i++) {
         for (let j = 0; j < y.length; j++) {
-			if (x[i].includes("x")){
+			if (x[i].includes("{x}")){
 				list.push(
 					`${i + 1}ν${j + 1} ${x[i].replaceAll("{x}", y[j])}`
 				);
